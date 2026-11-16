@@ -1,7 +1,7 @@
 # 🌊 Clean Coast AI (클린코스트 AI)
 > **제주시 주요 5개 해수욕장 해안쓰레기 발생량 예측 및 적정 청소 인력 배치 시스템**
 
-🔗 **웹 서비스 바로가기:** [Clean Coast AI 실행하기](https://meineroluv.github.io/clean-coast-ai/)
+🔗 **웹 서비스 바로가기:** [Clean Coast AI 실행하기](https://본인아이디.github.io/clean-coast-ai/)
 
 ---
 
